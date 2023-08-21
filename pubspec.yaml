@@ -1,6 +1,6 @@
 name: sse_channel
 description: StreamChannel wrappers for Server Sent Events.
-version: 0.0.3
+version: 0.0.4
 repository: https://www.github.com/jamiewest/sse_channel
 
 environment:
@@ -8,9 +8,9 @@ environment:
 
 dependencies:
   async: ^2.10.0
-  http: ^0.13.5
+  http: ^1.1.0
   pool: ^1.5.1
-  sse: ^4.1.1
+  sse: ^4.1.2
   stream_channel: ^2.1.1
   uuid: ^3.0.7
 
